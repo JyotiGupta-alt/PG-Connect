@@ -1,0 +1,21 @@
+# PHP Environment variables
+.env
+.env.local
+.env.*.local
+
+# Composer
+vendor/
+composer.lock
+
+# User uploads (keep the folder, ignore the contents)
+uploads/*
+!uploads/.gitkeep
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Database logs
+*.log
