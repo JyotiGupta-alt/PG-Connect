@@ -7,23 +7,24 @@
 ## 📸 Visual Showcase
 
 ### 🔍 Explore Accommodations
-![Home Hero](https://github.com/user-attachments/assets/4ef43ada-a3a8-41a4-9153-b124d6d9c6f1)
-![Search & Filters](https://github.com/user-attachments/assets/1aac85a0-56dc-4347-b54a-04a38edcccf4)
-![Listing Grid](https://github.com/user-attachments/assets/3372466d-a14b-40cd-ad13-1b6cd6b3ea45)
+| | |
+|:---:|:---:|
+| ![Home Hero](https://github.com/user-attachments/assets/4ef43ada-a3a8-41a4-9153-b124d6d9c6f1) | ![Search & Filters](https://github.com/user-attachments/assets/1aac85a0-56dc-4347-b54a-04a38edcccf4) |
+| ![Listing Grid](https://github.com/user-attachments/assets/3372466d-a14b-40cd-ad13-1b6cd6b3ea45) | |
 
 ### 📖 Detailed Listings
-![PG Detail View](https://github.com/user-attachments/assets/ff83e96e-9beb-408e-8275-f653f6c8b621)
-![Amenities & Description](https://github.com/user-attachments/assets/73b75dff-2fe4-4483-9d4a-5c8e6fd90341)
-![Contact & Location](https://github.com/user-attachments/assets/e50354f3-f21a-4537-9772-3f906fa58aa2)
+| | |
+|:---:|:---:|
+| ![PG Detail View](https://github.com/user-attachments/assets/ff83e96e-9beb-408e-8275-f653f6c8b621) | ![Amenities & Description](https://github.com/user-attachments/assets/73b75dff-2fe4-4483-9d4a-5c8e6fd90341) |
+| ![Contact & Location](https://github.com/user-attachments/assets/e50354f3-f21a-4537-9772-3f906fa58aa2) | |
 
 ### 🛠️ Admin Management
-![Admin Login](https://github.com/user-attachments/assets/1ef0b4b1-8d3a-46ee-8738-6d45bde1308e)
-![Admin Dashboard](https://github.com/user-attachments/assets/23ab451c-f7d9-4b7f-8a3e-f217ee60a82b)
-![Adding New PG](https://github.com/user-attachments/assets/e11474ea-17a6-424f-aaad-99b419f46786)
-![Image Uploads](https://github.com/user-attachments/assets/e46c33e5-075b-4e8d-95ce-7b6144214b33)
-![Editing Listings](https://github.com/user-attachments/assets/0452a1d0-eb7d-4ca2-ab66-c0fd34210378)
-![Dashboard Overview](https://github.com/user-attachments/assets/56e72871-c86d-4577-b16d-e9a1d72793fe)
-![Listing Actions](https://github.com/user-attachments/assets/f1d28614-97d8-4e70-a707-d2c245fef395)
+| | |
+|:---:|:---:|
+| ![Admin Login](https://github.com/user-attachments/assets/1ef0b4b1-8d3a-46ee-8738-6d45bde1308e) | ![Admin Dashboard](https://github.com/user-attachments/assets/23ab451c-f7d9-4b7f-8a3e-f217ee60a82b) |
+| ![Adding New PG](https://github.com/user-attachments/assets/e11474ea-17a6-424f-aaad-99b419f46786) | ![Image Uploads](https://github.com/user-attachments/assets/e46c33e5-075b-4e8d-95ce-7b6144214b33) |
+| ![Editing Listings](https://github.com/user-attachments/assets/0452a1d0-eb7d-4ca2-ab66-c0fd34210378) | ![Dashboard Overview](https://github.com/user-attachments/assets/56e72871-c86d-4577-b16d-e9a1d72793fe) |
+| ![Listing Actions](https://github.com/user-attachments/assets/f1d28614-97d8-4e70-a707-d2c245fef395) | |
 
 ---
 
